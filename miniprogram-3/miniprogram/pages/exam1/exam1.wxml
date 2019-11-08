@@ -1,0 +1,7 @@
+<!--pages/exam1/exam1.wxml-->
+<text>pages/exam1/exam1.wxml</text>
+<button bindtap="del">shanchu </button>
+<button bindtap="add">tianjia </button>
+<button bindtap="update">xiugai </button>
+<button bindtap="find">查询所有的记录</button>
+<button bindtap="find2">查询其中指定的</button>

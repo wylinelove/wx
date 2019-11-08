@@ -1,0 +1,37 @@
+{
+  "pages": [
+    "pages/exam1/exam1",
+    "pages/exam4/exam4",
+    "pages/exam5/exam5",
+    "pages/exam6/exam6",
+    "pages/exam2/exam2",
+    "pages/exam3/exam3"
+ 
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#FFcc00",
+    "navigationBarTitleText": "小程序练习",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "tabBar": {
+    "color":"#ccc",
+    "selectedColor":"#DE732A",
+    "list": [
+      {
+      "pagePath": "pages/exam3/exam3",
+      "text": "首页",
+      "iconPath": "images/01.png",
+      "selectedIconPath":       "images/01_active.png"
+    },
+    {
+      "pagePath": "pages/exam2/exam2",
+      "text": "美食",
+      "iconPath": "images/02.png",
+      "selectedIconPath":           "images/02_active.png"
+    }
+    ]
+  }
+}

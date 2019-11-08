@@ -1,0 +1,19 @@
+<!--pages/exam1/exam1.wxml-->
+<text>pages/exam1/exam1.wxml</text>
+<view>
+  <text>小新使用</text>
+  <text>云开发</text>
+   <text selectable="true">东东家有一架小飞机
+   东东家有一架小飞机
+   东东家有一架小飞机
+   东东家有一架小飞机
+   东东家有一架小飞机
+   </text>
+   <image src="icon-04.png"></image>
+</view>
+<text>pages/exam1/exam1.wxml</text>
+
+  <text class="txt2">小新使用</text>
+  <text class="txt3">云开发</text>
+   <text selectable="true">东东家有一架小飞机
+   </text>

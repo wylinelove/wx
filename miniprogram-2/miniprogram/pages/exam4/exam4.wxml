@@ -1,0 +1,5 @@
+<!--pages/exam4/exam4.wxml-->
+<text>pages/exam4/exam4.wxml</text>
+<view bindtap="handle1">事件触发时调跳转到view5</view>
+<view >向集合web1906添加</view>
+<view bindtap="add">添加</view>

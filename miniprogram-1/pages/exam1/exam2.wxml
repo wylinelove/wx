@@ -1,0 +1,7 @@
+<!--pages/exam1/exam1.wxml-->
+<text>pages/exam1/exam1.wxml</text>
+
+  <text class="txt2">小新使用</text>
+  <text class="txt2">云开发</text>
+   <text selectable="true">东东家有一架小飞机
+   </text>

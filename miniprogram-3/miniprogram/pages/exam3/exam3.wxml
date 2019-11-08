@@ -1,0 +1,9 @@
+<!--pages/exam3/exam3.wxml-->
+<text>pages/exam3/exam3.wxml</text>
+<view>调用云函数</view>
+<view bindtap="callFunction"> 
+  调用云函数sumj
+</view>
+<view bindtap="call3">
+ 调用云函数checkname
+</view>

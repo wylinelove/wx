@@ -1,0 +1,6 @@
+/* pages/exam1/exam1.wxss */
+@import "../../exam1/exam1-副本.wxss";
+.txt3{
+  font-size:19px;
+  color:blue;
+}

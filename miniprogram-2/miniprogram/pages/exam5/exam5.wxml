@@ -1,0 +1,3 @@
+<!--pages/exam5/exam5.wxml-->
+<text>pages/exam5/exam5.wxml</text>
+  <view>{{id}}</view>

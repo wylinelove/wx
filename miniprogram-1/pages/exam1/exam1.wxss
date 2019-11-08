@@ -1,0 +1,5 @@
+/* pages/exam1/exam1.wxss */
+.txt2{
+  font-size:29px;
+  color:aqua;
+}

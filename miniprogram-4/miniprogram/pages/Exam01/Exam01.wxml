@@ -1,0 +1,4 @@
+<!--pages/Exam01/Exam01.wxml-->
+<text>pages/Exam01/Exam01.wxml</text>
+
+<button bindtap="handle2">选图</button>

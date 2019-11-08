@@ -1,0 +1,7 @@
+
+
+/* pages/exam1/exam1.wxss */
+.txt3{
+font-size: 29px;
+color:red
+}

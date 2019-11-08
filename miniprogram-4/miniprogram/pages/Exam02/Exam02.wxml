@@ -1,0 +1,12 @@
+<!--pages/Exam02/Exam02.wxml-->
+<text>pages/Exam02/Exam02.wxml</text>
+<view >显示与上传</view>
+<!-- <image src="/images/console-entrance.png"></image> -->
+<button bindtap="upload">上传</button>
+<button bindtap="show">显示图片</button>
+<view class="container">
+  <image wx:for="{{list}}" wx:key="index" src="{{item.path}}"></image>
+</view>
+<!-- 涛哥:
+<image wx:for="{{list}}" wx:key="index" src="{{item.path}}"></image>
+ -->

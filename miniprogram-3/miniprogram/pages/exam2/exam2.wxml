@@ -1,0 +1,19 @@
+<!--pages/exam2/exam2.wxml-->
+<text>pages/exam2/exam2.wxml</text>
+<view>雇员操作</view>
+<view bindtap="add"> 添加雇员记录1</view>
+<view bindtap="add1">添加雇员记录2</view>
+<view bindtap="find">查询所有记录</view>
+<view class="container">
+
+  查询结果
+  <view wx:for="{{list}}"
+    wx:key="index">
+   <text>{{item.uname}}</text>
+    <text>{{item.sal}}</text>
+    <!-- 点击按钮将记录_id创给函数 -->
+    <!-- 自定义属性吧id传递给函数 -->
+    <text bindtap="del" data-id="{{item._id}}">DEL</text>
+  </view>
+
+</view>
